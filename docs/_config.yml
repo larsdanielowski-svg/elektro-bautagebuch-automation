@@ -1,0 +1,21 @@
+# GitHub Pages Jekyll Configuration
+
+title: "Elektro-BauLog Automation"
+description: "KI-gesteuerte Bautagebuch-Automatisierung für Elektrobetriebe"
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - README.md
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - server.js
+  - generate-mock-data.js
+  - data/
+  - uploads/
