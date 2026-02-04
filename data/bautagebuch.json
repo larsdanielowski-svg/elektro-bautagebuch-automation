@@ -1,4 +1,496 @@
 {
-  "eintraege": [],
-  "projekte": []
+  "eintraege": [
+    {
+      "id": "eintrag-projekt-1-0",
+      "bildPfad": "/uploads/mock-image-projekt-1-0.jpg",
+      "hochgeladenAm": "2026-01-28T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-1-0.jpg",
+        "analyseDatum": "2026-01-28T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 63,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Wohnhaus Müllerstraße\". Geschätzter Fertigstellungsgrad: 63%.",
+        "status": "in Arbeit",
+        "sicherheitsrisiken": [
+          "Keine offensichtlichen Sicherheitsrisiken erkannt"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Anschlüsse vorbereiten",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Wohnhaus Müllerstraße",
+      "standort": "Keller Waschküche",
+      "bemerkungen": "Arbeitsschritt 1 im Bereich Wohnhaus Müllerstraße",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-1-1",
+      "bildPfad": "/uploads/mock-image-projekt-1-1.jpg",
+      "hochgeladenAm": "2026-01-29T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-1-1.jpg",
+        "analyseDatum": "2026-01-29T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 60,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Wohnhaus Müllerstraße\". Geschätzter Fertigstellungsgrad: 60%.",
+        "status": "in Arbeit",
+        "sicherheitsrisiken": [
+          "Keine offensichtlichen Sicherheitsrisiken erkannt"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Anschlüsse vorbereiten",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Wohnhaus Müllerstraße",
+      "standort": "1. OG Arbeitszimmer",
+      "bemerkungen": "Arbeitsschritt 2 im Bereich Wohnhaus Müllerstraße",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-1-2",
+      "bildPfad": "/uploads/mock-image-projekt-1-2.jpg",
+      "hochgeladenAm": "2026-01-22T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-1-2.jpg",
+        "analyseDatum": "2026-01-22T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 55,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Wohnhaus Müllerstraße\". Geschätzter Fertigstellungsgrad: 55%.",
+        "status": "in Arbeit",
+        "sicherheitsrisiken": [
+          "Keine offensichtlichen Sicherheitsrisiken erkannt"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Anschlüsse vorbereiten",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Wohnhaus Müllerstraße",
+      "standort": "1. OG Schlafzimmer",
+      "bemerkungen": "Arbeitsschritt 3 im Bereich Wohnhaus Müllerstraße",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-2-0",
+      "bildPfad": "/uploads/mock-image-projekt-2-0.jpg",
+      "hochgeladenAm": "2026-01-28T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-2-0.jpg",
+        "analyseDatum": "2026-01-28T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 35,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Bürogebäude TechPark\". Geschätzter Fertigstellungsgrad: 35%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Bürogebäude TechPark",
+      "standort": "Garage",
+      "bemerkungen": "Arbeitsschritt 1 im Bereich Bürogebäude TechPark",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-2-1",
+      "bildPfad": "/uploads/mock-image-projekt-2-1.jpg",
+      "hochgeladenAm": "2026-01-31T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-2-1.jpg",
+        "analyseDatum": "2026-01-31T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 47,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Bürogebäude TechPark\". Geschätzter Fertigstellungsgrad: 47%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Anschlüsse vorbereiten",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Bürogebäude TechPark",
+      "standort": "EG Flur",
+      "bemerkungen": "Arbeitsschritt 2 im Bereich Bürogebäude TechPark",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-2-2",
+      "bildPfad": "/uploads/mock-image-projekt-2-2.jpg",
+      "hochgeladenAm": "2026-01-22T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-2-2.jpg",
+        "analyseDatum": "2026-01-22T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 31,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Bürogebäude TechPark\". Geschätzter Fertigstellungsgrad: 31%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Bürogebäude TechPark",
+      "standort": "1. OG Schlafzimmer",
+      "bemerkungen": "Arbeitsschritt 3 im Bereich Bürogebäude TechPark",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-0",
+      "bildPfad": "/uploads/mock-image-projekt-3-0.jpg",
+      "hochgeladenAm": "2026-01-25T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-0.jpg",
+        "analyseDatum": "2026-01-25T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 30,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 30%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "Außenbereich Garten",
+      "bemerkungen": "Arbeitsschritt 1 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-1",
+      "bildPfad": "/uploads/mock-image-projekt-3-1.jpg",
+      "hochgeladenAm": "2026-02-01T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-1.jpg",
+        "analyseDatum": "2026-02-01T07:59:26.441Z",
+        "erkannteElemente": [
+          "Kabelkanal verlegt",
+          "Schalter montiert",
+          "Steckdose angeschlossen"
+        ],
+        "fortschrittProzent": 17,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 17%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Material nachbestellen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "EG Küche",
+      "bemerkungen": "Arbeitsschritt 2 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-2",
+      "bildPfad": "/uploads/mock-image-projekt-3-2.jpg",
+      "hochgeladenAm": "2026-02-02T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-2.jpg",
+        "analyseDatum": "2026-02-02T07:59:26.441Z",
+        "erkannteElemente": [
+          "Kabelkanal verlegt",
+          "Schalter montiert",
+          "Steckdose angeschlossen"
+        ],
+        "fortschrittProzent": 17,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 17%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Material nachbestellen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "1. OG Schlafzimmer",
+      "bemerkungen": "Arbeitsschritt 3 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-3",
+      "bildPfad": "/uploads/mock-image-projekt-3-3.jpg",
+      "hochgeladenAm": "2026-01-24T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-3.jpg",
+        "analyseDatum": "2026-01-24T07:59:26.441Z",
+        "erkannteElemente": [
+          "Kabelkanal verlegt",
+          "Schalter montiert",
+          "Steckdose angeschlossen"
+        ],
+        "fortschrittProzent": 26,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 26%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Material nachbestellen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "Garage",
+      "bemerkungen": "Arbeitsschritt 4 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-4",
+      "bildPfad": "/uploads/mock-image-projekt-3-4.jpg",
+      "hochgeladenAm": "2026-02-02T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-4.jpg",
+        "analyseDatum": "2026-02-02T07:59:26.441Z",
+        "erkannteElemente": [
+          "Leitung verlegt",
+          "Verteilerkasten installiert",
+          "Beleuchtung vorbereitet",
+          "Kabelbündel gesichert"
+        ],
+        "fortschrittProzent": 33,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 33%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Qualitätskontrolle durchführen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "Außenbereich Terrasse",
+      "bemerkungen": "Arbeitsschritt 5 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-5",
+      "bildPfad": "/uploads/mock-image-projekt-3-5.jpg",
+      "hochgeladenAm": "2026-01-31T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-5.jpg",
+        "analyseDatum": "2026-01-31T07:59:26.441Z",
+        "erkannteElemente": [
+          "Kabelkanal verlegt",
+          "Schalter montiert",
+          "Steckdose angeschlossen"
+        ],
+        "fortschrittProzent": 25,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 25%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Material nachbestellen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "Außenbereich Terrasse",
+      "bemerkungen": "Arbeitsschritt 6 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    },
+    {
+      "id": "eintrag-projekt-3-6",
+      "bildPfad": "/uploads/mock-image-projekt-3-6.jpg",
+      "hochgeladenAm": "2026-01-23T07:59:26.441Z",
+      "analyse": {
+        "dateiname": "baustelle-projekt-3-6.jpg",
+        "analyseDatum": "2026-01-23T07:59:26.441Z",
+        "erkannteElemente": [
+          "Kabelkanal verlegt",
+          "Schalter montiert",
+          "Steckdose angeschlossen"
+        ],
+        "fortschrittProzent": 25,
+        "beschreibung": "Aufnahme zeigt Elektroinstallation im Projekt \"Einkaufszentrum Nord\". Geschätzter Fertigstellungsgrad: 25%.",
+        "status": "begonnen",
+        "sicherheitsrisiken": [
+          "Offene Kabelenden",
+          "Ungesicherte Leitungen"
+        ],
+        "empfehlungen": [
+          "Installation gemäß VDE fortsetzen",
+          "Material nachbestellen",
+          "Dokumentation aktualisieren"
+        ],
+        "naechsteSchritte": [
+          "Weitere Leitungen verlegen",
+          "Schalter und Steckdosen montieren"
+        ],
+        "aiModel": "mock-fallback"
+      },
+      "projekt": "Einkaufszentrum Nord",
+      "standort": "Dachboden",
+      "bemerkungen": "Arbeitsschritt 7 im Bereich Einkaufszentrum Nord",
+      "verwendetesModel": "mock-fallback"
+    }
+  ],
+  "projekte": [
+    {
+      "id": "projekt-1",
+      "name": "Wohnhaus Müllerstraße",
+      "adresse": "Müllerstraße 12, 12345 Berlin",
+      "beschreibung": "Komplette Elektroinstallation im Neubau",
+      "startDatum": "2026-01-15",
+      "status": "aktiv",
+      "fortschritt": 65,
+      "kunde": "Familie Schmidt"
+    },
+    {
+      "id": "projekt-2",
+      "name": "Bürogebäude TechPark",
+      "adresse": "TechPark 5, 12345 Berlin",
+      "beschreibung": "Modernisierung der Elektroanlage",
+      "startDatum": "2026-01-20",
+      "status": "aktiv",
+      "fortschritt": 40,
+      "kunde": "TechPark GmbH"
+    },
+    {
+      "id": "projekt-3",
+      "name": "Einkaufszentrum Nord",
+      "adresse": "Hauptstraße 1, 12345 Berlin",
+      "beschreibung": "Beleuchtungsinstallation im Einkaufszentrum",
+      "startDatum": "2026-02-01",
+      "status": "aktiv",
+      "fortschritt": 25,
+      "kunde": "Einkaufszentrum Nord GmbH"
+    }
+  ]
 }
